@@ -7,7 +7,8 @@ public class Test1 {
             Test2 test = new Test2();
             System.out.println(test);
             System.out.println(test.a);
-
+            System.out.println(test);
+            System.out.println(test.a);
         }
     }
 
